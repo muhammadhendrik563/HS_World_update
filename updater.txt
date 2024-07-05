@@ -1,18 +1,16 @@
 {
-  "fnmods_update": [
+  "Gaming Komplit Update": [
     {
- "version":"9.62",
- "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
-
-Base: 2.23 1.76
+ "Game":"Hungry Shark World",
+ "Update":"To V6.9.2",
+ "description":Please press Update to download the latest version of the game"
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Nuevo Systema de Actualización 
+Update to the latest version found
 
- Actualización AntiBaneo disponible ",
-"download":"https://youtu.be/rY2otd2NacA"
+",
+"download":"https://youtu.be/Rz42Qa7UDdI"
 }
   ]
 }
